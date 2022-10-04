@@ -1,0 +1,188 @@
+body{
+		background: rgb(169, 180, 223);
+
+}
+	
+	#contenedor{
+				width: 1000px;
+				padding: 20px 20px;
+				margin: 0px;
+				background: white;
+				margin: 0 auto;
+				float center
+
+	}
+
+	.titulo{
+				color: rgb(46, 50, 66);
+				text-align: center;
+				margin-top: 70px;
+				font-size: 30px;
+				font-family: 'Syncopate', sans-serif;
+}
+
+	.subtitulo{
+				color: rgb(46, 50, 66);
+				text-align: center;
+				margin-top: 10px;
+				font-size: 15px;
+				font-family: 'Syncopate', sans-serif;
+	}
+
+	.encabezadotitulo{
+				color: rgb(46, 50, 66);
+				margin-left: 50px;
+				margin-right: 600px;
+				margin-top: 70px;
+				font-size: 17px;
+				font-family: 'Syncopate', sans-serif;
+				line-height: 35px;
+
+	}
+
+	.encabezado{
+				color: rgb(46, 50, 66);
+				margin-left: 50px;
+				margin-right: 500px;
+				margin-top: 20px;
+				font-size: 15px;
+				font-family: 'Kanit', sans-serif;
+				line-height: 30px;
+	}
+
+	.synco{
+				position: absolute;
+				margin-left: 550px;
+				margin-top: -320px;		
+	}
+
+	.autor{
+				color: rgb(46, 50, 66);
+				margin-left: 50px;
+				margin-right: 100px;
+				margin-top: 50px;
+				font-size: 20px;
+				font-family: 'Kanit', sans-serif;
+				line-height: 35px;
+	}
+
+	.subtitulo2{
+				color: rgb(46, 50, 66);
+				margin-left: 50px;
+				margin-right: 600px;
+				margin-top: 70px;
+				font-size: 17px;
+				font-family: 'Syncopate', sans-serif;
+				line-height: 35px;
+	}
+
+	.resumen{
+				color: rgb(46, 50, 66);
+				margin-left: 50px;
+				margin-right: 20px;
+				margin-top: 20px;
+				font-size: 17px;
+				font-family: 'Kanit', sans-serif;
+				line-height: 30px;
+	}
+
+	.ideas1{
+				color: rgb(46, 50, 66);
+				margin-left: 50px;
+				text-align: center;
+				margin-top: 70px;
+				font-size: 22px;
+				font-family: 'Syncopate', sans-serif;
+				line-height: 35px;
+	}
+
+	.socialismo{
+				color: rgb(46, 50, 66);
+				margin-left: 50px;
+				margin-right: 600px;
+				margin-top: 30px;
+				font-size: 15px;
+				font-family: 'Syncopate', sans-serif;
+				line-height: 35px;
+	}
+
+	.texto1{
+				color: rgb(46, 50, 66);
+				margin-left: 50px;
+				margin-right: 370px;
+				margin-top: 10px;
+				font-size: 17px;
+				font-family: 'Kanit', sans-serif;
+				line-height: 30px;
+	}
+
+	.ulm{
+				color: rgb(46, 50, 66);
+				margin-left: 50px;
+				margin-right: 600px;
+				margin-top: 80px;
+				font-size: 15px;
+				font-family: 'Syncopate', sans-serif;
+				line-height: 35px;
+	}
+
+	.texto2{
+				color: rgb(46, 50, 66);
+				margin-left: 370px;
+				margin-right: 50px;
+				margin-top: 30px;
+				font-size: 17px;
+				font-family: 'Kanit', sans-serif;
+				line-height: 30px;
+	}
+
+		.economia{
+				color: rgb(46, 50, 66);
+				margin-left: 50px;
+				margin-right: 600px;
+				margin-top: 80px;
+				font-size: 15px;
+				font-family: 'Syncopate', sans-serif;
+				line-height: 35px;
+	}
+
+	.texto3{
+				color: rgb(46, 50, 66);
+				margin-left: 50px;
+				margin-right: 370px;
+				margin-top: 10px;
+				font-size: 17px;
+				font-family: 'Kanit', sans-serif;
+				line-height: 30px;
+	}
+
+	.corfo{
+				position: absolute;
+				margin-left: 720px;
+				margin-top: 20px;
+
+	}
+
+	.gui{
+				position: absolute;
+				margin-top: 15px;
+				margin-left: 70px;
+	}
+
+	.up{
+				position: absolute;
+				margin-left: 720px;
+				margin-top: 60px;
+	}
+
+
+	a:hover {
+			color: rgb(169, 180, 223);
+			
+	}
+
+
+
+diseño de la ulm
+socialismo en chile
+caida del modelo económico
